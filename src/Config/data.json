@@ -1,0 +1,46 @@
+{
+    "templeData": [
+        {
+            "id":1,
+            "favorite": false,
+            "templeName": "Lord Venkateswara Temple",
+            "location": "Andhra Pradesh",
+            "about": "The temple on Tirumala hills is also known as Tirupathi Balaji temple. It is also called a temple of seven hills. The temple is in Dravidian Architecture style."
+        },
+        {
+            "id":2,
+            "favorite": true,
+            "templeName": "Mahabodhi Temple",
+            "location": "Bihar",
+            "about": "It is a Buddhist temple. The Central Tower Of Mahabodhi is 180 feet tall i.e. 54 metres. It is one of the oldest brick structures. The brickwork depicts the life of Buddha. It is a UNESCO World Heritage Site."
+        },
+        {
+            "id":3,
+            "favorite": false,
+            "templeName": "Somnath Temple",
+            "location": "Gujarat",
+            "about": "It is lso known as Deo Patan. It is one of the 12 jyotirlinga shrines of Lord Shiva. There is no land in between seashores from Somnath temple to Antarctica. Constructed in Chalukyan style. 1947 – Sardar Vallabh Bhai Patel ordered the reconstruction of the temple that completed in 1951."
+        },
+        {
+            "id":4,
+            "favorite": true,
+            "templeName": "Dwarkadhish Temple",
+            "location": "Gujarat",
+            "about": "It is also known as Jagat Mandir. It is one of the four Hindu pilgrimages (Char Dham). The original structure was destroyed by Mahmud Brgada in 1472. Presently, in the Chalukya architecture style."
+        },
+        {
+            "id":5,
+            "favorite": false,
+            "templeName": "Vaishno Devi Temple",
+            "location": "Jammu & Kashmir",
+            "about": "It is 5200 feet above sea level atop Trikuta Hills. It is a Cave temple."
+        },
+        {
+            "id":6,
+            "favorite": true,
+            "templeName": "Amarnath Temple",
+            "location": "Jammu & Kashmir",
+            "about": "A cave temple situated at an altitude of 3888 metres. It is one of the 51 Shakti Peeths. It is believed that Bhrigu Muni (A great sage) was the first to have discovered Amarnath."
+        }
+    ]
+}
